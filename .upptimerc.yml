@@ -9,6 +9,8 @@ sites:
     check: "tcp-ping"
   - name: Node 1
     url: https://node1.aaro.dev
+  - name: VRCBoard website
+    url: https://vrcboard.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
