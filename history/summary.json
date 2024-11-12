@@ -49,7 +49,7 @@
     "url": "https://vrcboard.app",
     "icon": "https://icons.duckduckgo.com/ip3/vrcboard.app.ico",
     "slug": "vrc-board-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +61,7 @@
     "timeMonth": 544,
     "timeYear": 576,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-04": 26,
       "2024-11-01": 21,
       "2024-10-31": 23,
