@@ -72,18 +72,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.crimson.work.ico",
     "slug": "crim-nas",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1093,
-    "timeDay": 501,
-    "timeWeek": 367,
-    "timeMonth": 1530,
-    "timeYear": 1093,
+    "uptime": "99.96%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 1070,
+    "timeDay": 458,
+    "timeWeek": 382,
+    "timeMonth": 1470,
+    "timeYear": 1070,
     "dailyMinutesDown": {
-      "2025-10-19": 0
+      "2025-10-19": 29
     }
   }
 ]
