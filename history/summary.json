@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 149,
-    "timeWeek": 153,
-    "timeMonth": 141,
+    "timeDay": 112,
+    "timeWeek": 140,
+    "timeMonth": 139,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2025-09-09": 29
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 155,
-    "timeWeek": 149,
-    "timeMonth": 139,
+    "timeDay": 112,
+    "timeWeek": 138,
+    "timeMonth": 137,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2024-12-27": 21
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 376,
-    "timeWeek": 410,
-    "timeMonth": 355,
-    "timeYear": 381,
+    "time": 445,
+    "timeDay": 233,
+    "timeWeek": 388,
+    "timeMonth": 347,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.crimson.work.ico",
     "slug": "crim-nas",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
-    "time": 877,
-    "timeDay": 633,
-    "timeWeek": 596,
-    "timeMonth": 476,
-    "timeYear": 877,
+    "uptimeYear": "99.98%",
+    "time": 870,
+    "timeDay": 226,
+    "timeWeek": 518,
+    "timeMonth": 462,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2025-10-19": 29
     }
