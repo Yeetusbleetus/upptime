@@ -44,19 +44,19 @@
     "url": "https://vrcboard.app",
     "icon": "https://icons.duckduckgo.com/ip3/vrcboard.app.ico",
     "slug": "vrc-board-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 443,
-    "timeDay": 266,
-    "timeWeek": 307,
+    "timeDay": 275,
+    "timeWeek": 309,
     "timeMonth": 331,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-11-18": 110
+      "2025-11-18": 125
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.crimson.work.ico",
     "slug": "crim-nas",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.89%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.89%",
     "time": 865,
     "timeDay": 831,
     "timeWeek": 707,
     "timeMonth": 561,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2025-11-18": 110,
+      "2025-11-18": 99,
       "2025-10-19": 29
     }
   }
