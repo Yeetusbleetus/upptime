@@ -1,7 +1,7 @@
 url: https://vrcboard.app
-status: up
-code: 200
-responseTime: 588
-lastUpdated: 2025-11-17T23:01:07.851Z
+status: down
+code: 500
+responseTime: 149
+lastUpdated: 2025-11-18T11:38:01.294Z
 startTime: 2024-09-22T09:04:11.045Z
 generator: Upptime <https://github.com/upptime/upptime>
