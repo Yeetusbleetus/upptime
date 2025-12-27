@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 182,
-    "timeWeek": 150,
+    "timeDay": 123,
+    "timeWeek": 142,
     "timeMonth": 150,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -30,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 181,
-    "timeWeek": 148,
+    "time": 146,
+    "timeDay": 118,
+    "timeWeek": 139,
     "timeMonth": 148,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2024-12-27": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VRCBoard website",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 430,
-    "timeDay": 320,
-    "timeWeek": 354,
-    "timeMonth": 331,
+    "timeDay": 305,
+    "timeWeek": 344,
+    "timeMonth": 333,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2025-11-18": 125
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 754,
-    "timeDay": 723,
-    "timeWeek": 564,
-    "timeMonth": 493,
-    "timeYear": 754,
+    "time": 752,
+    "timeDay": 382,
+    "timeWeek": 507,
+    "timeMonth": 497,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2025-11-18": 99,
       "2025-10-19": 29
