@@ -4,11 +4,11 @@
     "url": "aaro.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 140,
     "timeDay": 129,
@@ -16,6 +16,7 @@
     "timeMonth": 151,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2026-01-14": 2,
       "2025-12-28": 45,
       "2025-09-09": 29
     }
@@ -25,18 +26,19 @@
     "url": "node1.aaro.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.91%",
-    "time": 141,
+    "time": 157,
     "timeDay": 130,
     "timeWeek": 141,
     "timeMonth": 150,
     "timeYear": 142,
     "dailyMinutesDown": {
+      "2026-01-14": 0,
       "2025-12-28": 470
     }
   },
