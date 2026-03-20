@@ -4,7 +4,7 @@
     "url": "aaro.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 140,
     "timeYear": 142,
     "dailyMinutesDown": {
+      "2026-03-20": 0,
       "2026-01-31": 28,
       "2026-01-14": 186,
       "2025-12-28": 45,
