@@ -11,8 +11,8 @@ sites:
     url: node1.aaro.dev
     port: 80
     check: "tcp-ping"
-  - name: VRCBoard website
-    url: https://vrcboard.app
+  - name: VRCBoard website (API)
+    url: https://vrcboard.app/api/creator/list
   - name: Crim NAS
     url: https://nas.crimson.work/
 
