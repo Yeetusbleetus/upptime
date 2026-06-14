@@ -30,14 +30,14 @@
     "url": "node1.aaro.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.76%",
     "time": 150,
-    "timeDay": 172,
+    "timeDay": 149,
     "timeWeek": 126,
     "timeMonth": 128,
     "timeYear": 140,
@@ -47,7 +47,7 @@
       "2026-01-31": 27,
       "2026-04-07": 183,
       "2026-04-20": 147,
-      "2026-06-14": 1
+      "2026-06-14": 29
     }
   },
   {
@@ -55,20 +55,20 @@
     "url": "https://vrcboard.app/api/creator/list",
     "icon": "https://icons.duckduckgo.com/ip3/vrcboard.app.ico",
     "slug": "vrc-board-website-api",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 1212,
-    "timeDay": 10031,
-    "timeWeek": 2931,
-    "timeMonth": 1345,
-    "timeYear": 1212,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.91%",
+    "time": 1203,
+    "timeDay": 6874,
+    "timeWeek": 2668,
+    "timeMonth": 1321,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2026-04-20": 60,
-      "2026-06-14": 0
+      "2026-06-14": 28
     }
   },
   {
