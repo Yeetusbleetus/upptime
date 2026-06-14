@@ -1,7 +1,7 @@
 url: https://vrcboard.app/api/creator/list
-status: up
-code: 200
-responseTime: 614
-lastUpdated: 2026-06-13T23:21:19.664Z
+status: down
+code: 522
+responseTime: 19447
+lastUpdated: 2026-06-14T21:09:58.260Z
 startTime: 2026-04-07T10:29:24.302Z
 generator: Upptime <https://github.com/upptime/upptime>
