@@ -76,17 +76,17 @@
     "url": "https://nas.crimson.work/",
     "icon": "https://icons.duckduckgo.com/ip3/nas.crimson.work.ico",
     "slug": "crim-nas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.76%",
-    "time": 803,
-    "timeDay": 527,
-    "timeWeek": 557,
-    "timeMonth": 1137,
-    "timeYear": 803,
+    "time": 810,
+    "timeDay": 1859,
+    "timeWeek": 886,
+    "timeMonth": 1197,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2025-10-19": 29,
       "2025-11-18": 99,
@@ -94,7 +94,8 @@
       "2026-01-29": 17,
       "2026-04-13": 20,
       "2026-05-02": 66,
-      "2026-05-17": 385
+      "2026-05-17": 385,
+      "2026-06-15": 0
     }
   }
 ]
