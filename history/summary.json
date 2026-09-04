@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 139,
-    "timeDay": 134,
-    "timeWeek": 156,
+    "timeDay": 110,
+    "timeWeek": 150,
     "timeMonth": 138,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -37,8 +37,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 139,
-    "timeDay": 132,
-    "timeWeek": 154,
+    "timeDay": 108,
+    "timeWeek": 149,
     "timeMonth": 138,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -61,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 887,
-    "timeDay": 537,
-    "timeWeek": 686,
-    "timeMonth": 607,
-    "timeYear": 887,
+    "time": 884,
+    "timeDay": 539,
+    "timeWeek": 667,
+    "timeMonth": 610,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2026-04-20": 60,
       "2026-06-14": 28
@@ -78,13 +78,13 @@
     "slug": "crim-nas",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "93.40%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.76%",
-    "time": 852,
-    "timeDay": 8037,
-    "timeWeek": 4119,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.77%",
+    "time": 851,
+    "timeDay": 6745,
+    "timeWeek": 3807,
     "timeMonth": 1641,
     "timeYear": 860,
     "dailyMinutesDown": {
@@ -96,8 +96,7 @@
       "2026-05-02": 66,
       "2026-05-17": 385,
       "2026-06-15": 131,
-      "2026-09-02": 86,
-      "2026-09-03": 9
+      "2026-09-02": 86
     }
   }
 ]
