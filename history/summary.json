@@ -4,11 +4,11 @@
     "url": "aaro.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
     "time": 139,
     "timeDay": 109,
@@ -21,7 +21,8 @@
       "2026-01-31": 28,
       "2026-03-20": 32,
       "2026-04-07": 30,
-      "2026-04-20": 61
+      "2026-04-20": 61,
+      "2026-09-09": 14
     }
   },
   {
@@ -31,9 +32,9 @@
     "slug": "node-1",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "62.41%",
-    "uptimeWeek": "94.63%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "59.64%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.65%",
     "time": 139,
     "timeDay": 0,
@@ -47,7 +48,7 @@
       "2026-04-07": 183,
       "2026-04-20": 147,
       "2026-06-14": 29,
-      "2026-09-09": 47,
+      "2026-09-09": 87,
       "2026-09-08": 494
     }
   },
@@ -56,9 +57,9 @@
     "url": "https://vrcboard.app/api/creator/list",
     "icon": "https://icons.duckduckgo.com/ip3/vrcboard.app.ico",
     "slug": "vrc-board-website-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -69,7 +70,8 @@
     "timeYear": 876,
     "dailyMinutesDown": {
       "2026-04-20": 60,
-      "2026-06-14": 28
+      "2026-06-14": 28,
+      "2026-09-09": 0
     }
   },
   {
